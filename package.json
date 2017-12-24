@@ -1,0 +1,39 @@
+{
+  "name": "personal-site",
+  "version": "1.0.0",
+  "description": "Guillermo Lopez`s Personal Site",
+  "main": "index.js",
+  "scripts": {
+    "dev": "NODE_ENV=development node server.js",
+    "build": "cd src && npx next build",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/glopezep/personal-site"
+  },
+  "keywords": [
+    "personal-site",
+    "javascript",
+    "react",
+    "nextjs",
+    "express"
+  ],
+  "author": "Guillermo Lopez",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "chalk": "^2.3.0",
+    "express": "^4.16.2",
+    "next": "^4.2.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-icons": "^2.2.7",
+    "reactstrap": "^5.0.0-alpha.4"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.7",
+    "nodemon": "^1.14.3",
+    "style-loader": "^0.19.1"
+  }
+}
