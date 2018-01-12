@@ -25,7 +25,7 @@ class Index extends Component {
                   I am a Developer with experience in Node.js and JavaScript
                   with DevOps Skills,currently making modules, CLI tools, and apps.
                   My favorite technologies right now are Node.js, Python, React,
-                  Internet Of Things, Ansible, Linux, Unix, AWS, Digital Ocean.
+                  Internet Of Things, Ansible, Linux, Unix, AWS and Digital Ocean.
                 `}
               >
                 <a style={{ padding: '1em', display: 'block', color: 'black' }} href='http://github.com/glopezep'>
