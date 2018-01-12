@@ -24,7 +24,8 @@ class Index extends Component {
                 description={`
                   I am a Developer with experience in Node.js and JavaScript
                   with DevOps Skills,currently making modules, CLI tools, and apps.
-                  My favorite technologies right now are Node.js and Python.
+                  My favorite technologies right now are Node.js, Python, React,
+                  Internet Of Things, Ansible, Linux, Unix, AWS, Digital Ocean.
                 `}
               >
                 <a style={{ padding: '1em', display: 'block', color: 'black' }} href='http://github.com/glopezep'>
@@ -34,7 +35,7 @@ class Index extends Component {
                   <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><title>npm</title><path d="M0 0v32h32v-32h-32zM26 26h-4v-16h-6v16h-10v-20h20v20z"></path></svg>
                 </a>
               </MainCard>
-              <p style={{ textAlign: 'center' }}><strong>Contact:</strong> guillermolopez2529@gmail.com</p>
+              <p style={{ textAlign: 'center' }}><strong>git Contact:</strong> guillermolopez2529@gmail.com</p>
             </Col>
           </Row>
         </Container>
