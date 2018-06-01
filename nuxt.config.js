@@ -36,6 +36,9 @@ module.exports = {
         })
       }
     }
+  },
+  router: {
+    base: '/personal-site/'
   }
 }
 
